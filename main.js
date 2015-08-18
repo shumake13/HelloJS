@@ -64,4 +64,5 @@ cc.game.onStart = function(){
         cc.director.runScene(new HelloWorldScene());
     }, this);
 };
+//add comment for clone test
 cc.game.run();
