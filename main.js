@@ -67,3 +67,4 @@ cc.game.onStart = function(){
 //add comment for clone test
 cc.game.run();
 //commit 記錄索引的狀態
+//pull 取得遠端數據庫的內容
